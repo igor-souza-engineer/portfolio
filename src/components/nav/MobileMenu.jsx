@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const links = [
   { label: "Projects", href: "/#projects", type: "anchor" },
   { label: "About", href: "/#about", type: "anchor" },
-  { label: "Insights", href: "/blog", type: "route" },
+  { label: "Insights", href: "/Insights", type: "route" },
   { label: "Contact", href: "/#contact", type: "anchor" },
 ];
 
