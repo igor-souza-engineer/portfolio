@@ -60,7 +60,7 @@ export default function BlogPost() {
 
         <div className="flex flex-col gap-8 text-[18px] leading-[32px] font-normal text-[#D1D5DB]">
           <p>
-            My name is Igor Souza. I have a background in International
+            Howdy! My name is Igor Souza. I have a background in International
             Relations, and over the past few years, I started transitioning my
             career into technology.
           </p>
