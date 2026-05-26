@@ -16,11 +16,11 @@ export const projects = [
   sourceUrl: "https://github.com/igor-souza-engineer/crypto-news-automation",
 },
   {
-  title: "Lead Acquisition Landing Page",
+  title: "CryptoHub Access Landing Page",
   description:
-    "High-conversion landing page focused on lead clarity.",
+    "Landing page for private CryptoHub access, with lead qualification, Brevo CRM integration, and automated email flow.",
   stack: "Next.js · TypeScript · Tailwind CSS",
-  liveUrl: "https://igor-souza-engineer.github.io/lead-acquisition-landing-page/",
+  liveUrl: "https://lead-acquisition-landing-page.vercel.app",
   sourceUrl: "https://github.com/igor-souza-engineer/lead-acquisition-landing-page",
   },
   {
